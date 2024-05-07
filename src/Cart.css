@@ -1,0 +1,28 @@
+.incrementanddecrementbtn button{
+    background-color: #5E0F12;
+    color: white;
+    border: none;
+    outline: none;
+    padding: 5px 15px;
+}
+.removebtn{
+    border: 1px solid #5E0F12;
+    background-color: #5E0F12;
+    color: white;
+}
+.ordersummary{
+    border-bottom: 1px solid black;
+}
+.DeliveryCharges{
+    border-bottom: 1px solid black;
+}
+
+.emptycart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    font-size: 30px;
+    font-weight: 600;
+    color: #5E0F12;
+}
